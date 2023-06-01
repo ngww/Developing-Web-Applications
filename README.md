@@ -17,3 +17,7 @@
 [Containers, Syntax Errors, Special Characters and Non-Standard HTML](/Basic%20HTML/04_containers_syntax_special_nonstandard.md)</br>
 [Hyperlinks](/Basic%20HTML/05_hyperlinks.md)</br>
 [Images](/Basic%20HTML/06_images.md)</br>
+[Lists](/Basic%20HTML/07_lists.md)</br>
+[Tables](/Basic%20HTML/08_tables.md)</br>
+[Forms](/Basic%20HTML/09_forms.md)</br>
+[Head Tags and DOM](/Basic%20HTML/10_headtag_DOM.md)</br>
